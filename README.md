@@ -18,4 +18,4 @@
 
 ` print("viperr - top top money") `
 
-(Число ПИ)[PI (1).md](https://github.com/user-attachments/files/17150535/PI.1.md)
+(Число ПИ)[PI.md](https://github.com/user-attachments/files/17150535/PI.1.md)
