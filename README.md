@@ -16,4 +16,4 @@
 + ICE + ALABASTER
 + PRADA PARTY
 
-` print("viperr - top top money") `![Uploading zaк.JPG…]()
+` print("viperr - top top money") `
