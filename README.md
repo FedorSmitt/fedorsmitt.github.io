@@ -1,3 +1,3 @@
 # Ермаков Фёдор Александрович
-+ [sзадание по MarkDown](ABOUT_md.md)
-+ [задание по Htmal](ABOUT_html.html)
++ [Задание по MarkDown](ABOUT_md.md)
++ [Задание по Htmal](ABOUT_html.html)
