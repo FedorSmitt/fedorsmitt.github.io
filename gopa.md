@@ -15,3 +15,5 @@
 и - 1
 е - 1
 
+
+![image](https://github.com/user-attachments/assets/d501dfe3-6b0c-4735-8d18-67c462d4119b)
